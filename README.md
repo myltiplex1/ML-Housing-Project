@@ -1,1 +1,1 @@
-# LinearRegression-HousingPrices-Project
+# Regression-HousingPrices-Project
